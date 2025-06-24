@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "HP Laptop 15s",
+    "category": "laptop",
+    "price": 45999,
+    "imageUrl": "https://example.com/images/hp15s.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dell Inspiron 14",
+    "category": "laptop",
+    "price": 48999,
+    "imageUrl": "https://example.com/images/dell14.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo Ideapad Slim 3",
+    "category": "laptop",
+    "price": 42999,
+    "imageUrl": "https://example.com/images/lenovo3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Air",
+    "category": "laptop",
+    "price": 99999,
+    "imageUrl": "https://example.com/images/macbook.jpg"
+  }
+]
